@@ -1,0 +1,29 @@
+* {
+  padding: 0;
+  margin: 0;
+  background-color: black;
+}
+
+a {
+  text-decoration: none;
+}
+
+div 
+{
+  background-color: transparent;
+}
+
+h1,
+h2,
+h3 {
+  color: #ffffff;
+}
+
+p {
+  color: #898fa6;
+
+}
+
+a {
+  color: #898fa6;
+}
